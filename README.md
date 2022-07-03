@@ -1,2 +1,2 @@
-# Binary-and-linear-Search
-Binary and linear Search C program
+# Binary-Search
+Binary Search C program
